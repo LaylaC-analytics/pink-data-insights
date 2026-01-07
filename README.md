@@ -1,89 +1,74 @@
-# Pink Data Insights
 
-# About the Project
+# Pink Data Insights 🌸
 
-Pink Data Insights is a data analysis project created to explore real-world datasets using Python and SQL, transforming raw data into meaningful insights through structured analysis, visualization, and interpretation.
+## Overview
+Pink Data Insights is a personal data analytics project created to explore, analyze, and communicate insights from data using a clear, structured, and human-centered approach.  
+This repository reflects my learning journey in data analysis while also expressing my identity and curiosity beyond traditional aesthetics in tech.
 
-This project was designed both as a technical learning journey and as a professional portfolio, documenting the process of working with data from exploration to analysis-ready outputs.
+## Project Goals
+- Practice real-world data analysis workflows  
+- Apply Python, SQL, and data visualization techniques  
+- Build a clean and professional data portfolio  
+- Communicate insights in a clear and meaningful way  
 
+## Technologies Used
+- **Python** (Pandas, NumPy, Matplotlib)
+- **SQLite**
+- **Jupyter Notebook**
+- **Git & GitHub**
 
-# Project Objectives
-
-* Practice data cleaning, transformation, and exploration
-* Apply Python for data analysis and visualization
-* Store and query data using SQLite
-* Combine Python and SQL in a real analytical workflow
-* Build a clear, well-documented data project for portfolio and career development
-
-
-
-# Technologies and Tools
-
-* Python
-
-  * pandas
-  * numpy
-  * matplotlib
-* SQLite
-* Jupyter Notebook
-* Git & GitHub
-
-
-# Project Structure
-
+## Project Structure
 ```
+
 pink-data-insights/
 │
-├── data/          # Raw and processed datasets
-├── notebooks/     # Jupyter notebooks with analysis
-├── scripts/       # Python scripts
-├── reports/       # Analysis summaries and insights
-├── docs/          # Documentation and explanations
+├── data/
+│   ├── sales_data.csv
+│   └── sales.db
+│
+├── notebooks/
+│   ├── 01_exploratory_data_analysis.ipynb
+│   └── 02_sql_analysis.ipynb
+│
+├── scripts/
+├── reports/
+├── docs/
 └── README.md
+
 ```
 
+## Notebooks Description
+### 01 — Exploratory Data Analysis
+- Dataset exploration and cleaning  
+- Feature engineering  
+- Descriptive statistics  
+- Data visualization  
+- Key business insights  
 
-# Analytical Workflow
+### 02 — SQL Analysis
+- SQLite database creation  
+- SQL queries for business questions  
+- Aggregations and filtering  
+- Interpretation of results  
 
-1. Import and explore the dataset using Python
-2. Clean and prepare the data for analysis
-3. Generate visualizations to identify trends and patterns
-4. Store the processed data in a SQLite database
-5. Perform SQL queries to extract insights
-6. Document findings in a clear and structured way
+## About the Color Choice
+The use of pink is intentional.  
+This project was built with the same care and passion I have for web development, but with a growing focus on data analysis and data-driven thinking.  
+Choosing pink represents my desire to bring personality into my work and move beyond the obvious, neutral color palettes commonly seen in tech.  
+It reflects creativity, confidence, and the idea that professionalism and individuality can coexist.
 
+## Target Audience
+This project is for anyone interested in data analysis — especially those exploring career transitions, learning paths, or building their first data portfolio.
 
+## Next Steps
+- Expand the dataset  
+- Add advanced SQL queries  
+- Create visual reports  
+- Integrate new data-focused projects  
 
-# Personal Approach and Design Choice
+---
 
-The use of pink in this project is intentional.
-In technology and data-related fields, visual identity often follows very predictable patterns. Choosing pink represents a personal and professional statement: bringing authenticity, creativity, and individuality into a technical space without compromising clarity or rigor.
+*Built with curiosity, consistency, and a passion for learning.*
+```
 
-This project reflects the balance between analytical thinking and personal expression, showing that data work can be precise, thoughtful, and still human.
-
-
-
-# Target Audience
-
-This project is intended for:
-
-* People interested in data analytics and data-driven decision making
-* Students and professionals transitioning into data careers
-* Recruiters and teams looking for analytical thinking and well-structured projects
-
-
-
-# Future Improvements
-
-* Add more complex SQL queries and joins
-* Expand the dataset and analysis scope
-* Integrate additional visualizations
-* Connect the project to interactive dashboards
-
-
-
-# Author
-
-Created by **Layla Costa
-Data Analytics | Python | SQL
-
+Developed by Layla Costa.
