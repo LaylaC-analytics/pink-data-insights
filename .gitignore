@@ -6,3 +6,7 @@
 
 # Python cache
 __pycache__/
+.ipynb_checkpoints/
+__pycache__/
+*.db
+*.csv
