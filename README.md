@@ -34,6 +34,7 @@ pink-data-insights/
 ├── reports/
 ├── docs/
 └── README.md
+└──.gitignore
 
 ```
 
