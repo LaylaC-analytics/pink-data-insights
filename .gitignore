@@ -1,12 +1,39 @@
-# Jupyter notebook checkpoints
+# ===============================
+# Jupyter Notebook
+# ===============================
 .ipynb_checkpoints/
 
-# SQLite databases
-*.db
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Python cache
-__pycache__/
-.ipynb_checkpoints/
-__pycache__/
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# ===============================
+# Database
+# ===============================
 *.db
-*.csv
+*.sqlite
+*.sqlite3
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# Logs
+# ===============================
+*.log

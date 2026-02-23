@@ -1,25 +1,62 @@
+🌸 Pink Data Insights
 
-# Pink Data Insights 🌸
+📊 Project Overview
 
-## Overview
-Pink Data Insights is a personal data analytics project created to explore, analyze, and communicate insights from data using a clear, structured, and human-centered approach.  
-This repository reflects my learning journey in data analysis while also expressing my identity and curiosity beyond traditional aesthetics in tech.
+Pink Data Insights is an end-to-end data analytics project focused on exploring, transforming, and analyzing sales data using Python (Pandas) and SQL (SQLite).
 
-## Project Goals
-- Practice real-world data analysis workflows  
-- Apply Python, SQL, and data visualization techniques  
-- Build a clean and professional data portfolio  
-- Communicate insights in a clear and meaningful way  
+The objective of this project is to demonstrate:
 
-## Technologies Used
-- **Python** (Pandas, NumPy, Matplotlib)
-- **SQLite**
-- **Jupyter Notebook**
-- **Git & GitHub**
+Analytical thinking
 
-## Project Structure
-```
+Data transformation and modeling skills
 
+Business-oriented problem solving
+
+Structured data workflow development
+
+This repository represents a complete analytics pipeline — from dataset creation and exploratory analysis to database structuring and SQL-driven business insights.
+
+🎯 Business Objectives
+
+Perform Exploratory Data Analysis (EDA)
+
+Identify revenue distribution patterns
+
+Apply feature engineering techniques
+
+Store structured data in a SQLite database
+
+Execute SQL queries to answer business-driven questions
+
+Generate actionable insights based on aggregated results
+
+Build a clean, structured, and portfolio-ready data project
+
+📈 Key Insights
+
+Product A is the primary revenue driver.
+
+The North region leads overall sales performance.
+
+Revenue distribution reveals regional concentration patterns.
+
+SQL aggregation enables multi-dimensional performance analysis across products and regions.
+
+🔄 Data Workflow
+
+Dataset creation and preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Feature engineering
+
+SQLite database structuring
+
+SQL aggregation queries
+
+Insight extraction and interpretation
+
+🗂️ Project Structure
 pink-data-insights/
 │
 ├── data/
@@ -30,46 +67,29 @@ pink-data-insights/
 │   ├── 01_exploratory_data_analysis.ipynb
 │   └── 02_sql_analysis.ipynb
 │
-├── scripts/
 ├── reports/
-├── docs/
-└── README.md
-└──.gitignore
+│   └── charts and visual outputs
+│
+├── README.md
+└── .gitignore
+🛠️ Technologies Used
 
-```
+Python
 
-## Notebooks Description
-### 01 — Exploratory Data Analysis
-- Dataset exploration and cleaning  
-- Feature engineering  
-- Descriptive statistics  
-- Data visualization  
-- Key business insights  
+Pandas
 
-### 02 — SQL Analysis
-- SQLite database creation  
-- SQL queries for business questions  
-- Aggregations and filtering  
-- Interpretation of results  
+NumPy
 
-## About the Color Choice
-The use of pink is intentional.  
-This project was built with the same care and passion I have for web development, but with a growing focus on data analysis and data-driven thinking.  
-Choosing pink represents my desire to bring personality into my work and move beyond the obvious, neutral color palettes commonly seen in tech.  
-It reflects creativity, confidence, and the idea that professionalism and individuality can coexist.
+Matplotlib
 
-## Target Audience
-This project is for anyone interested in data analysis — especially those exploring career transitions, learning paths, or building their first data portfolio.
+SQLite
 
-## Next Steps
-- Expand the dataset  
-- Add advanced SQL queries  
-- Create visual reports  
-- Integrate new data-focused projects  
+Jupyter Notebook
 
----
+Git & GitHub
 
-*Built with curiosity, consistency, and a passion for learning.*
-```
+🎨 Visual Identity
 
-Developed by Layla Costa.
+The color pink was intentionally chosen to reflect confidence, creativity, and individuality.
+
+While the data field is often associated with neutral tones, this project integrates personality with professionalism, reinforcing that strong analytical skills and authentic identity can coexist.
